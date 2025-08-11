@@ -1,4 +1,4 @@
-# ✨ Data Analytics & Power BI Projects Hub ✨
+# ✨ Data Analytics & Power BI Projects✨
 
 Welcome to your all-in-one analytics portfolio! This repository now contains three beautifully organized, ready-to-use data analytics projects. Dive in and explore each project using the links below:
 
