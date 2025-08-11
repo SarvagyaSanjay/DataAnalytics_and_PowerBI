@@ -1,3 +1,4 @@
+
 # ✨ Data Analytics & Power BI Projects Hub ✨
 
 Welcome to your all-in-one analytics portfolio! This repository now contains three beautifully organized, ready-to-use data analytics projects. Dive in and explore each project using the links below:
@@ -20,5 +21,3 @@ Visualize, analyze, and grow your retail business with this dynamic dashboard an
 ---
 
 > 🚀 **Explore each folder for detailed instructions, dashboards, and data magic!**
-
-Made with ❤️ by Sarvagya Sanjay
