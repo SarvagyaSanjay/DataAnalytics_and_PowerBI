@@ -1,4 +1,5 @@
 # 👩‍💼 HR Analytics: Rizen Dashboard
+<img width="1059" height="593" alt="image" src="https://github.com/user-attachments/assets/5764a752-21a8-45b1-a3c1-66aeb2dd9765" />
 
 Empower your HR team with actionable insights and beautiful visualizations! 🌟
 
